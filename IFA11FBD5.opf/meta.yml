@@ -1,0 +1,32 @@
+id: IFA11FBD5
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:28:03.983470'
+last_modified: '2022-05-30T18:28:03.983482'
+parser: null
+source_metadata:
+  title: Chöje Lingpa Series
+  language: en
+  description: 'Texts by and about the treasure-revealer Chöjé Lingpa (chos rje gling
+    pa, 1682–1720):'
+  volume:
+    fA4AD:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      base_file: fA4AD.txt
+      order: 1
+      parent: Longevity
+    f7C0C:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      base_file: f7C0C.txt
+      order: 2
+      parent: Longevity
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
